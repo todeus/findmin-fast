@@ -13,6 +13,6 @@ while max(abs(F_)) > e
     Xn = X - F_ * L;
     X = Xn;
     i=i+1;
-endwhile;
+end;
 F_
 i
